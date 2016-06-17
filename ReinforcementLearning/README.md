@@ -1,4 +1,4 @@
-REinforcement learning with sarsa algorithm is applied for the given case below.
+Reinforcement learning with sarsa algorithm is applied for the given case below.
 
 Consider a 8x8 grid and a robot that can move in one the main four
 directions: N, W, E, and S. Robot starts at (1,1) (lowest left corner).
